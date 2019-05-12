@@ -1,6 +1,0 @@
-- site: "blah1.com"
-  response: "afp"
-- site: "blah2.com"
-  response: "forbidden"
-- site: "blah3.com"
-  response: "risk"
